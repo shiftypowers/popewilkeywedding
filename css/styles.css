@@ -11654,19 +11654,19 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text-left {
     padding: 0 0 0 2rem;
-    border-right: 0.5rem solid #CC5500;
+   
   }
 }
 
 
 
 .projects-section .project-text {
-  padding: 3rem;
-  font-size: 90%;
+  padding: 2rem;
+  font-size: 85%;
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 2rem;
   }
   .projects-section .project-text hr {
     border-color: #CC5500;
