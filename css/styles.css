@@ -248,7 +248,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #50817e;
+  color: #721429;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -3044,18 +3044,18 @@ textarea.form-control-lg {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #558985;
-  border-color: #50817e;
+  background-color: #721429;
+  border-color: #721429;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
-  background-color: #558985;
-  border-color: #50817e;
+  background-color: #721429;
+  border-color: #721429;
   box-shadow: 0 0 0 0.25rem rgba(123, 175, 172, 0.5);
 }
 .btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #50817e;
+  background-color: #721429;
   border-color: #4b7976;
 }
 .btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
@@ -3593,7 +3593,7 @@ textarea.form-control-lg {
   text-decoration: underline;
 }
 .btn-link:hover {
-  color: #50817e;
+  color: #721429;
 }
 .btn-link:disabled, .btn-link.disabled {
   color: #6c757d;
@@ -4071,7 +4071,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #50817e;
+  color: #721429;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -4935,13 +4935,13 @@ textarea.form-control-lg {
 }
 .page-link:hover {
   z-index: 2;
-  color: #50817e;
+  color: #721429;
   background-color: #e9ecef;
   border-color: #dee2e6;
 }
 .page-link:focus {
   z-index: 3;
-  color: #50817e;
+  color: #721429;
   background-color: #e9ecef;
   outline: 0;
   box-shadow: 0 0 0 0.25rem rgba(100, 161, 157, 0.25);
@@ -6601,7 +6601,7 @@ textarea.form-control-lg {
   color: #CC5500;
 }
 .link-primary:hover, .link-primary:focus {
-  color: #50817e;
+  color: #721429;
 }
 
 .link-secondary {
@@ -11549,11 +11549,21 @@ body {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #CC5500;
+    color: #721429;
     outline: none;
-    border-bottom: 0.25rem solid #CC5500;
+    border-bottom: 0.25rem solid #721429;
   }
 }
+
+.small-image {
+ 
+    margin: auto;    
+    display: block;
+      text-align: center;
+      width: 100%
+}
+
+
 
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
@@ -13304,8 +13314,8 @@ form label {
   border: 2px solid #CC5500;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #f366a3 !important;
-  border-color: #f366a3 !important;
+  background: #721429 !important;
+  border-color: #721429 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
