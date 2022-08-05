@@ -612,6 +612,31 @@ progress {
   height: auto;
 }
 
+.img-fluid-smaller {
+  max-width: 100%;
+  height: auto;
+}
+
+
+@media (min-width: 992px) {
+.img-fluid-smaller {
+  max-width: 100%;
+  height: auto;
+  padding-left:40px;
+  padding-right:40px;
+}
+}
+
+
+@media (min-width: 1200px) {
+.img-fluid-smaller {
+  max-width: 100%;
+  height: auto;
+  padding-left:80px;
+  padding-right:80px;
+}
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
