@@ -1,4 +1,4 @@
 # Wedding
-We havin a wedding
+Copyright to @rmcarder.
 
-We do be doin that
+Wedding things.
