@@ -144,7 +144,7 @@ font-family: 'Lobster Two', cursive;
 
 h4, .h4 {
   font-size: calc(1.275rem + 0.3vw);
-font-family: 'Quicksand', sans-serif;
+font-family: 'Lobster Two', sans-serif;
 }
 @media (min-width: 1200px) {
   h4, .h4 {
@@ -154,7 +154,7 @@ font-family: 'Quicksand', sans-serif;
 
 h5, .h5 {
   font-size: 1.25rem;
-font-family: 'La Belle Aurore', cursive;
+font-family: 'Lobster Two', cursive;
 }
 
 h6, .h6 {
