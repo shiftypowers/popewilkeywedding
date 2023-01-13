@@ -248,7 +248,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #721429;
+  color: #808080;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -3069,19 +3069,19 @@ textarea.form-control-lg {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #721429;
-  border-color: #721429;
+  background-color: #808080;
+  border-color: #808080;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
-  background-color: #721429;
-  border-color: #721429;
+  background-color: #808080;
+  border-color: #808080;
   box-shadow: 0 0 0 0.25rem rgba(123, 175, 172, 0.5);
 }
 .btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #721429;
-  border-color: #4b7976;
+  background-color: #808080;
+  border-color: #FFFFFF;
 }
 .btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.25rem rgba(123, 175, 172, 0.5);
@@ -3618,7 +3618,7 @@ textarea.form-control-lg {
   text-decoration: underline;
 }
 .btn-link:hover {
-  color: #721429;
+  color: #808080;
 }
 .btn-link:disabled, .btn-link.disabled {
   color: #6c757d;
@@ -4096,7 +4096,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #721429;
+  color: #808080;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -4960,13 +4960,13 @@ textarea.form-control-lg {
 }
 .page-link:hover {
   z-index: 2;
-  color: #721429;
+  color: #808080;
   background-color: #e9ecef;
   border-color: #dee2e6;
 }
 .page-link:focus {
   z-index: 3;
-  color: #721429;
+  color: #808080;
   background-color: #e9ecef;
   outline: 0;
   box-shadow: 0 0 0 0.25rem rgba(100, 161, 157, 0.25);
@@ -6626,7 +6626,7 @@ textarea.form-control-lg {
   color: #000000;
 }
 .link-primary:hover, .link-primary:focus {
-  color: #721429;
+  color: #808080;
 }
 
 .link-secondary {
@@ -11574,9 +11574,9 @@ body {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #721429;
+    color: #808080;
     outline: none;
-    border-bottom: 0.25rem solid #721429;
+    border-bottom: 0.25rem solid #808080;
   }
 }
 
@@ -13355,8 +13355,8 @@ form label {
   border: 2px solid #000000;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #721429 !important;
-  border-color: #721429 !important;
+  background: #808080 !important;
+  border-color: #808080 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
