@@ -11624,9 +11624,7 @@ body {
           background-clip: text;
 }
 .masthead h2, .masthead .h2 {
-  max-width: 20rem;
-  font-size: 3rem;
-  color: #fff;
+	color: #fff;
 }
 @media (min-width: 768px) {
   .masthead h1, .masthead .h1 {
