@@ -11624,6 +11624,8 @@ body {
           background-clip: text;
 }
 .masthead h2, .masthead .h2 {
+	max-width: 20rem;
+	font-size: 4rem;
 	color: #fff;
 }
 @media (min-width: 768px) {
