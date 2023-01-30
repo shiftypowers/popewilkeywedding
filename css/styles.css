@@ -11519,7 +11519,7 @@ body {
   color: #000;
   font-weight: 700;
   padding: 0.9rem 0;
-   font-family: 'La Belle Aurore', cursive;
+   font-family: 'Lobster Two', cursive;
 }
 #mainNav .navbar-nav .nav-item:hover {
   color: fade(#fff, 80%);
@@ -11537,12 +11537,12 @@ body {
     border-bottom: none;
     background-color: transparent;
     transition: background-color 0.3s ease-in-out;
-     font-family: 'La Belle Aurore', cursive;
+     font-family: 'Lobster Two', cursive;
   }
   #mainNav .navbar-brand {
     padding: 0.5rem 0;
     color: rgba(255, 255, 255, 1);
-    font-family: 'La Belle Aurore', cursive;
+    font-family: 'Lobster Two', cursive;
 
   }
   #mainNav .nav-link {
@@ -11614,7 +11614,7 @@ body {
   color: #fff;
 }
 .masthead h1, .masthead .h1 {
-  font-family: "La Belle Aurore", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Lobster Two", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 4rem;
   line-height: 4rem;
   font-weight: 500;
@@ -11625,7 +11625,7 @@ body {
 }
 .masthead h2, .masthead .h2 {
 	max-width: 20rem;
-	font-size: 4rem;
+	font-size: 1rem;
 	color: #fff;
 }
 @media (min-width: 768px) {
